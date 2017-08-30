@@ -39,12 +39,7 @@ background-image: url("sea.jpg");
   opacity: 0.9
 }
 
-#logo {
-  width: 50px;
-  position: absolute;
-  right: 0;
-  bottom: 0;
-}
+
 
 @-webkit-keyframes Floatingx {
   from {
@@ -68,4 +63,53 @@ background-image: url("sea.jpg");
   to {
     -moz-transform: translate(0, -0px);
   }
+}
+
+#accordion {
+    width: 400px;
+    margin-top: 150px;
+    border-color: black;
+    
+}
+
+.card {
+    background-image: url("sea.jpg");
+    border-width: 0px;
+}
+
+.card-header {
+    background-image: url("sea.jpg");
+    border-color: black;
+    color:black;
+    
+}
+
+.title {
+    color:black;
+}
+
+.contact {
+    font-size: 20px;
+    color:black;
+    font-weight:500;
+    padding:5px;
+   
+}
+
+.right {
+    text-align: right;
+}
+
+#header {
+    background-image: url("sea.jpg");
+}
+
+#footer {
+      background-image: url("footer.png");
+}
+
+
+#logo {
+    padding:0px;
+    margin:0px;
 }
