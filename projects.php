@@ -111,7 +111,7 @@
         
           <div class="row">
             <div class="col contact">
-                786.897.7037
+                &copy; Nora J. Singer
             </div>
             <div class="col contact right">
                 norajsinger@gmail.com
